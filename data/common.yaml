@@ -1,0 +1,2 @@
+---
+module_hiera_test::foobar: 'banana'
